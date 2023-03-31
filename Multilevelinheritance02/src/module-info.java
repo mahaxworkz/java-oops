@@ -1,0 +1,2 @@
+module Multilevelinheritance02 {
+}
