@@ -1,0 +1,2 @@
+module Hirarchical02 {
+}
