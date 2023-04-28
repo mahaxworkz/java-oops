@@ -8,7 +8,6 @@ public class Moviesdto {
 	private long budget;
 	private String hero;
 	private String villains;
-	  private static String[] casting;
 	  
 	  
 	  
@@ -63,13 +62,7 @@ public class Moviesdto {
 		this.budget = budget;
 	}
 
-	public  static  String[] getCasting() {
-		return casting;
-	}
-
-	public void setCasting(String[] casting) {
-		Moviesdto.casting = casting;
-	}
+	 
 
 	@Override
 	public String toString() {
